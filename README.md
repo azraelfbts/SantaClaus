@@ -1,2 +1,1 @@
-# SantaClaus
-Programacion concurrente
+# ProblemaSanta
